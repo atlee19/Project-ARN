@@ -1,0 +1,13 @@
+Things I want to accomplish over winter break:
+
+
+- Javascript and the DOM 
+- Hello world electron app 
+- Try out leap motion JS framework 
+- Test leap motion JS on a North Star
+- See how to build an npm js package 
+- finish chapter 2 of 3D Math
+- chapter 3 of 3D math 
+- chapter 4 matrices 
+- Object oriented Javascript 
+- Become more familiar with Three.js 
