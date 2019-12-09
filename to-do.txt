@@ -11,3 +11,9 @@ Things I want to accomplish over winter break:
 - chapter 4 matrices 
 - Object oriented Javascript 
 - Become more familiar with Three.js 
+- Comprehend Linux/Ubuntu 
+- 2k cost analysis 
+- setup Nvidia Jetson Nano
+- setup wireless card on Jetson Nano 
+- plan of action with deadlines 
+- get that book about the coders and their stories 
