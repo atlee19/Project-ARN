@@ -1,7 +1,7 @@
 Things I want to accomplish over winter break:
 
 
-- Javascript and the DOM 
+- Javascript and the DOM (COMPLETED)
 - Hello world electron app 
 - Try out leap motion JS framework 
 - Test leap motion JS on a North Star
@@ -17,3 +17,5 @@ Things I want to accomplish over winter break:
 - setup wireless card on Jetson Nano 
 - plan of action with deadlines 
 - get that book about the coders and their stories 
+- Create ledger of possible names
+- List what went wrong with Pumori.io
