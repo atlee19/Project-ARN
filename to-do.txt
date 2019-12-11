@@ -13,9 +13,10 @@ Things I want to accomplish over winter break:
 - Become more familiar with Three.js 
 - Comprehend Linux/Ubuntu 
 - 2k cost analysis 
-- setup Nvidia Jetson Nano
-- setup wireless card on Jetson Nano 
+- setup Nvidia Jetson Nano (COMPLETED)
+- setup wireless card on Jetson Nano (COMPLETED)
 - plan of action with deadlines 
 - get that book about the coders and their stories 
 - Create ledger of possible names
 - List what went wrong with Pumori.io
+- How to create APT package
